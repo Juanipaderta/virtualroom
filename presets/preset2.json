@@ -270,12 +270,13 @@
         "ColorHSL_Saturation": 0.547,
         "ColorHSL_Lightness": 0.543
     },
-    "Fonac":{
-"$outputsize": [
-512,
-512,
-],
- "Color": [
+  "Fonac": {
+
+        "$outputsize": [
+          12,
+          12
+        ],
+        "Color": [
             0.196,
             0.196,
             0.196
@@ -283,8 +284,8 @@
         "roughness": 0.95,
         "metallic": 0.00,
         "Grosor_Espuma": 0.472,
-        "Daño_Espuma": 0.569,
+        "DaÃ±o_Espuma": 0.569,
         "Profundidad_Espuma": 0.748,
-        "Intensidad": 1.172,
-
+        "Intensidad": 1.172
+},
 }
