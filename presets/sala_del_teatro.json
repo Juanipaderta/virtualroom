@@ -79,8 +79,8 @@
                         "thickness" : [0.025, 0.025, 0],
                         "uv_scale": 3.0,
                         "material":  {
-                            "sbs_name": "painted_plaster",
-                            "category": "Plaster",
+                            "sbs_name": "Fonac",
+                            "category": "Fonac",
                             "preset": "preset1"
                         }
                     },
